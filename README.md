@@ -1,0 +1,1 @@
+# Kuadro-dinamikoa
