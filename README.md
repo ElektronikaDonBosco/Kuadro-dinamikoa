@@ -1,6 +1,6 @@
 # [KUADRO DINAMIKOA](https://github.com/ElektronikaDonBosco/Kuadro-dinamikoa/wiki/KUADRO-DINAMIKOA)
+     Taldeko partaideak: Eneko Izagirre, Endika Mendizabal eta Rubén Sanchez </p>
 Errenteriako Don Bosco ikastetxeko elektronika departamentuko ELEK taldea gara. </p>
-Taldeko partaideak: Eneko Izagirre, Endika Mendizabal eta Rubén Sanchez </p>
 Proiektu honetan, kuadro dinamiko bat egin dugu. Horretarako, 16 servo, 4 pultsagailu, 4 led eta 2 sensorekin egin dugu lan.
 Pultsagailu eta sensore bakoitzarekin, kuadroak mugimendu jakin bat egiten du. </p>
 
